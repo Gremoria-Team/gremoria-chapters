@@ -1,8 +1,46 @@
 {
-  "title": "Gremoria",
-  "description": "",
+  "title": "GREMORIA",
+  "description": "En un mundo regido por cuatro reinos, verano, invierno, primavera y otoño, comienzan las aventuras de cuatro jóvenes que lo cambiarán todo.",
   "artist": "Miguel Collazo",
   "author": "Miguel Collazo",
   "cover": "https://dthezntil550i.cloudfront.net/l7/current/l72106061137314170020866275/a03f458e-8440-4537-a439-09db14e1bb3c_m.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Erik Redsun, el lobo solitario.",
+      "volume": "1",
+      "last_updated": "1654011701",
+      "groups": {
+        "": [
+          "https://i.ibb.co/Lgk3Hnv/gremoria-1-P-gina-02-Imagen-0001.png",
+          "https://i.ibb.co/HYZ6KS0/gremoria-1-P-gina-03-Imagen-0001.png",
+          "https://i.ibb.co/n0gqdMx/gremoria-1-P-gina-04-Imagen-0001.png",
+          "https://i.ibb.co/7zSZG4M/gremoria-1-P-gina-05-Imagen-0001.png",
+          "https://i.ibb.co/8bR6mTm/gremoria-1-P-gina-06-Imagen-0001.png",
+          "https://i.ibb.co/njS4YZx/gremoria-1-P-gina-07-Imagen-0001.png",
+          "https://i.ibb.co/PWd7WNj/gremoria-1-P-gina-08-Imagen-0001.png",
+          "https://i.ibb.co/PW3gQxW/gremoria-1-P-gina-09-Imagen-0001.png",
+          "https://i.ibb.co/K9jpjMP/gremoria-1-P-gina-10-Imagen-0001.png",
+          "https://i.ibb.co/jhvqLB8/gremoria-1-P-gina-11-Imagen-0001.png",
+          "https://i.ibb.co/PTPzkrK/gremoria-1-P-gina-12-Imagen-0001.png",
+          "https://i.ibb.co/H4hv3sp/gremoria-1-P-gina-13-Imagen-0001.png",
+          "https://i.ibb.co/5n8zcP6/gremoria-1-P-gina-14-Imagen-0001.png",
+          "https://i.ibb.co/1KR7BQx/gremoria-1-P-gina-15-Imagen-0001.png",
+          "https://i.ibb.co/R05KYRk/gremoria-1-P-gina-16-Imagen-0001.png",
+          "https://i.ibb.co/hgQZ8S9/gremoria-1-P-gina-17-Imagen-0001.png",
+          "https://i.ibb.co/QrNQhbJ/gremoria-1-P-gina-18-Imagen-0001.png",
+          "https://i.ibb.co/GdPSvZp/gremoria-1-P-gina-19-Imagen-0001.png",
+          "https://i.ibb.co/Z6GwDJR/gremoria-1-P-gina-20-Imagen-0001.png",
+          "https://i.ibb.co/HD9P4Gt/gremoria-1-P-gina-21-Imagen-0001.png",
+          "https://i.ibb.co/CV3RDw5/gremoria-1-P-gina-22-Imagen-0001.png",
+          "https://i.ibb.co/165187S/gremoria-1-P-gina-23-Imagen-0001.png",
+          "https://i.ibb.co/rvMmMgY/gremoria-1-P-gina-24-Imagen-0001.png",
+          "https://i.ibb.co/2gxp6ZZ/gremoria-1-P-gina-25-Imagen-0001.png",
+          "https://i.ibb.co/bHdyzFd/gremoria-1-P-gina-26-Imagen-0001.png",
+          "https://i.ibb.co/SscYkQj/gremoria-1-P-gina-27-Imagen-0001.png",
+          "https://i.ibb.co/kBYghSg/gremoria-1-P-gina-28-Imagen-0001.png",
+          "https://i.ibb.co/8xvqnSF/gremoria-1-P-gina-29-Imagen-0001.png"
+        ]
+      }
+    }
+  }
 }
